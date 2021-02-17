@@ -48,7 +48,6 @@
     width: 100%;
 }
 .container-box {
-    /* cred ca puteai sa gasesti usor aici solutii alternative pentru pozitionare, respectiv centrare */
     position: absolute;
     border: 6px solid #fff;
     box-shadow:  10px 10px 10px 0 #00000049;
